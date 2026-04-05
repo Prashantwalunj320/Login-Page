@@ -1,4 +1,4 @@
-Simple Login Page 
+Simple Login Page:
 This project is a simple and responsive Login Page created using only HTML and CSS. It is designed for beginners to understand basic structure, styling, and layout techniques.
 🚀 Features
 Clean and modern UI
